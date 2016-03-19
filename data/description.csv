@@ -1,8 +1,8 @@
 label,sublabel,styles,bgcolor
-燃やせるごみ,,,#FF0000
-燃やせないごみ,,,#4B0082
+燃やせるごみ,,img/moyasu02.svg,#FF0000
+燃やせないごみ,,img/moyasanai02.svg,#4B0082
 カン類,,,#6B8E23
-びん類,,,#20B2AA
+びん類,,img/bin02.svg,#20B2AA
 ペットボトル,,,#696969
 その他プラスチック,,,#FF1493
 紙パック・ダンボール・古新聞・古雑誌,,,#DEB887
