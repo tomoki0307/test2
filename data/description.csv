@@ -1,8 +1,8 @@
 label,sublabel,styles,bgcolor
 燃やせるごみ,,,img/moyasu02.svg,#FF0000
 燃やせないごみ,,,img/moyasanai02.svg,#4B0082
-カン類,,,img/moyasanai02,#6B8E23
+カン類,,,img/moyasanai02.svg,#6B8E23
 びん類,,,img/bin02.svg,#20B2AA
-ペットボトル,,,img/moyasanai02,#696969
-その他プラスチック,,,img/moyasanai02,#FF1493
-紙パック,,,img/moyasanai02,#DEB887
+ペットボトル,,,img/moyasanai02.svg,#696969
+その他プラスチック,,,img/moyasanai02.svg,#FF1493
+紙パック,,,img/moyasanai02.svg,#DEB887
