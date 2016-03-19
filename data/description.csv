@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
-燃やせるごみ,,,img/moyasu02.svg,#ea3b13
-燃やせないごみ,,,img/moyasanai02.svg,#733b96
-カン類,,,img/moyasanai02.svg,#81d12e
-びん類,,,img/bin02.svg,#2dc7aa
-ペットボトル,,,img/moyasanai02.svg,#91dde7
-その他プラスチック,,,img/moyasanai02.svg,#27a047
-紙パック・ダンボール・古新聞・古雑誌,,,,#ff6e00
+燃やせるごみ,,,img/moyasu02.svg,#f06060
+燃やせないごみ,,,img/moyasanai02.svg,#5c4b51
+カン類,,,img/moyasanai02.svg,#4ff3a0
+びん類,,,img/bin02.svg,#8cbeb2
+ペットボトル,,,img/moyasanai02.svg,#6b76be
+その他プラスチック,,,img/moyasanai02.svg,#f2ebbf
+紙パック・ダンボール・古新聞・古雑誌,,,,#f3b562
